@@ -34,11 +34,11 @@
 }
 
 a:hover {
-    color: #ff00b3;
+    color: #a5ee8f;
 }
 
 a:active{
-    color: rgb(247, 0, 193);
+    color: rgb(98, 231, 142);
 
 }
 
@@ -49,8 +49,8 @@ a:active{
 }
 
 .escola{
-    background-image:linear-gradient( #fdfdfd, #f7c9e4) ;
-    color: rgb(253, 6, 109);
+    background-image:linear-gradient( #fdfdfd, #c9f7cd) ;
+    color: rgb(178, 240, 173);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -72,5 +72,5 @@ p{
 }
 
 .estudante{
-    color: rgb(253, 6, 109);
+    color: rgb(97, 253, 6);
     background-image:linear-gradient( #f7c9e4, #ffffff) ;
