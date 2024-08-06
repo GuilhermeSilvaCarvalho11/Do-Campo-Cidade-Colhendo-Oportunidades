@@ -42,13 +42,13 @@ a:active{
 
 }
 
-.escola-imagem{
+.agricultura-imagem{
     width: 30%;
     height: 300px;
     border-radius: 82px;
 }
 
-.escola{
+.Agriculutra{
     background-image:linear-gradient( #79fa74, #0bec1e) ;
     color: rgb(36, 231, 22);
     display: flex;
@@ -57,7 +57,7 @@ a:active{
     padding: 24px 0;
 }
 
-.escola-div-conteudo{
+.informação-div-conteudo{
     width: 45%;
 }
 
@@ -70,7 +70,3 @@ p{
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
 }
-
-.estudante{
-    color: rgb(97, 253, 6);
-    background-image:linear-gradient( #f7c9e4, #ffffff) ;
