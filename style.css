@@ -43,13 +43,13 @@ a:active{
 }
 
 .escola-imagem{
-    width: 25%;
+    width: 30%;
     height: 300px;
     border-radius: 82px;
 }
 
 .escola{
-    background-image:linear-gradient( #fdfdfd, #c9f7cd) ;
+    background-image:linear-gradient( #79fa74, #c9f7cd) ;
     color: rgb(178, 240, 173);
     display: flex;
     justify-content: center;
