@@ -43,13 +43,12 @@ a:active{
 }
 
 .agricultura-imagem{
-    width: 30%;
+    width: 25%;
     height: 300px;
-    border-radius: 82px;
 }
 
 .Agriculutra{
-    background-image:linear-gradient( #79fa74, #0bec1e) ;
+    background-image:linear-gradient(#79fa74, #0bec1e) ;
     color: rgb(36, 231, 22);
     display: flex;
     justify-content: center;
