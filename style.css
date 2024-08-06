@@ -43,7 +43,7 @@ a:active{
 }
 
 .agricultura-imagem{
-    float:inline-start; right; 
+    float:inline-end; right; 
     width: 25%;
     height: 400px;
 }
