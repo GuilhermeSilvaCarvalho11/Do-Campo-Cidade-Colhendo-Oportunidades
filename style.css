@@ -51,6 +51,7 @@ a:active{
 .agricultura{
     background-image:linear-gradient( #fdfdfd, #afec93) ;
     color: rgb(28, 87, 1);
+    float: left;
     display: flex;
     padding: 24px 0;
 }
