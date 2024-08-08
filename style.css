@@ -2,7 +2,6 @@
     padding: 0;
 }
 
-
 .cabecalho{
     background-color: rgb(255, 255, 255);
     color: rgb(255, 255, 255);
@@ -10,6 +9,21 @@
     justify-content: space-around;
     padding: 24px 0;
 }
+
+.logo img {
+    border-radius: 50%;
+    box-shadow: #f8f9ffad 0px 0px 10px;
+    transition: 0.5s;
+    width: 35%;
+    height: auto;
+    margin: 0 auto; /* Ajustado para centralizar horizontalmente */
+}
+
+.logo img:hover {
+    transition: 0.5s;
+    box-shadow: #f8f9ffad 0px 0px 20px;
+}
+
 
 .cabecalho-titulo{
     color: rgb(28, 87, 1);
