@@ -14,7 +14,7 @@
 .cabecalho-titulo{
     color: rgb(28, 87, 1);
     font-style: italic;
-    font-variation-settings:
+   font-variation-settings:
 }
 
 .cabecalho-imagem{
@@ -43,7 +43,7 @@ a:active{
 }
 
 .agricultura-imagem{
-    float:inline-end; right;
+    float:inline-end;
     width: 25%;
     height: 400px;
 }
