@@ -75,11 +75,11 @@ a:active{
     --amarelo: #f6f7c7;
 }
 
-.body { background-color: var(--cor-de-fundo);
-font-family: var(--fonte-principal);
-font-size: 16px;
-font-weight: 400;
-
+.body { 
+    background-color: var(--cor-de-fundo);
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 400;
 }
 
 .tipo_imagem {
@@ -91,6 +91,8 @@ font-weight: 400;
 
 .principal_box {
     background-color: rgb(178, 241, 159);
+    height: 400px;
+    width: 950px;
     margin: auto;
 }
 
@@ -99,6 +101,7 @@ font-weight: 400;
     text-align: center;
     padding: 1em; 
     font-weight: 700;
+
  }
 
  .box{
@@ -119,7 +122,7 @@ font-weight: 400;
     margin: 3em 1em;
 }
 
- .box_front,
+ .box_front
  .box_back {
     position: absolute;
     backface-visibility: hidden;
@@ -135,20 +138,23 @@ font-weight: 400;
     transform: rotateY(180deg);
 }
 
-.box:hover .box_content {
+.box:hover .box__content {
     transform: rotateY(180deg);
+
 }
 
  /*para colocar o efeito na borda*/
 
 .caixa {
-     margin: auto;
-position: relative;
+    margin: auto;
+    position: relative;
     width: 50px;
     height: 20px;
-    color: #151320; background:#fff;
+    color: #151320;     
+    background:#fff;
     display: flex;
-    Justify-content: center; 74 align-items: center;
+    Justify-content: center; 
+    align-items: center;
     border-radius: 3px;
     font-weight: 700;
 }
@@ -157,14 +163,15 @@ position: relative;
 
  .caixa::before, .caixa::after {
     content: '';
+    position: absolute;
     z-index: -1;
-    width: calc(100%+5px); height: calc(100%+ 5px);
+    width: calc(100%+5px); 
+    height: calc(100%+ 5px);
     background: linear-gradient(45deg, #c3c4c4,#979696,#646364, #839a9f, #d7d8d8, #9f9f9f, #939292,#646364);
     background-size: 300%;
     background-repeat: no-repeat;
-    border-radius: 10px;
-    position: absolute;
     background-position: 100%;
+    border-radius: 10px;
     animation: AnimarBorda 4s linear infinite;
 }
 
@@ -189,8 +196,38 @@ position: relative;
     height: 20px;
     color: #151320;
     background:#fff;
-    display: flex; 115 justify-content: center;
+    display: flex;      
+    justify-content: center;
     align-items: center;
     border-radius: 3px;
     font-weight: 700;
 }
+
+.caixa::before, .caixa::after {
+    content: '';
+    position: absolute;
+    z-index: -1;
+    width: calc(100% + 5px);
+    height: calc(100% + 5px);
+    background: linear-gradient(45deg, #128686, #839a9f, #d7d8d8, #881111, #939292, #8d1313, #646364, #b91bb9);
+    background-size: 300%;
+    background-repeat: no-repeat;
+    background-position: 100%;
+    border-radius: 10px;
+    animation: AnimarBorda 4s linear infinite;
+
+}
+    
+    @keyframes AnimarBorda {
+    0% {    
+        background-position: 0; 
+    }
+    100% {
+        background-position: 300%; 
+    }
+    
+ }   
+
+.caixa::after {
+    filter: blur(5px);
+ }
