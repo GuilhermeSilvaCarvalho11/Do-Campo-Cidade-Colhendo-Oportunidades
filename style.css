@@ -40,7 +40,8 @@
 .cabecalho-titulo{
     color: rgb(28, 87, 1);
     font-style: italic;
-    font-variation-settings:
+    font-variation-settings;
+    text-align: center;
 }
 
 .cabecalho-lista-item{
