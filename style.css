@@ -264,3 +264,13 @@ a:active{
  }
  
  
+.agricultura2{
+    width: 100%;
+    height: 450px;
+    background-image:linear-gradient( #fdfdfd, #afec93) ;
+    color: rgb(28, 87, 1);
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    padding: 24px 0;
+}
