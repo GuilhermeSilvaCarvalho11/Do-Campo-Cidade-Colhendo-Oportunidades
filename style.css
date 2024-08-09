@@ -109,7 +109,7 @@ a:active{
 }
 
 .titulo {
-    color: var(--preto);
+    color: #80b639;
     text-align: center;
     padding: 1em; 
     font-weight: 700;
