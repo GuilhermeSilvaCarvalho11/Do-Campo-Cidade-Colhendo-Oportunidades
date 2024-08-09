@@ -66,10 +66,17 @@
 
 .Informação-texto-tres {
     display: block;
+    font-size: 20px;
 
 }
 
-
+.agricultura-imagem2{
+    justify-self: end;
+    align-content: right;
+    width: 25%;
+    height: 450px;
+    margin-bottom: 0%;
+}
 
 .cabecalho-lista-item{
     justify-content: center;
