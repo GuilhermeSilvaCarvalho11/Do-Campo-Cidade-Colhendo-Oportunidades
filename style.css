@@ -93,7 +93,7 @@ a:active{
     align-content: right;
     width: 25%;
     height: 450px;
-    margin-bottom: 0;
+   margin: 0;
     
 }
 
@@ -106,7 +106,7 @@ a:active{
     justify-content: center;
     align-items: left;
     padding: 24px 0;
-    margin-bottom: 0;
+    margin: 0;
     
 
 }
