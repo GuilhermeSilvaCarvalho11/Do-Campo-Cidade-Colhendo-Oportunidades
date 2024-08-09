@@ -27,9 +27,10 @@
 
 
 .cabecalho-titulo{
+    justify-content: center;
     color: rgb(28, 87, 1);
     font-style: italic;
-   font-variation-settings:
+    font-variation-settings:
 }
 
 .cabecalho-imagem{
@@ -44,6 +45,7 @@
 }
 
 .cabecalho-lista-item a{
+    justify-content: center;
     text-decoration: none;
     color:rgb(49, 139, 69);
 }
