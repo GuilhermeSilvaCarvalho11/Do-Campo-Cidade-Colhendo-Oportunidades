@@ -18,6 +18,7 @@
     width: 5%;
     border-radius: 22px;
     height: 5%;
+    margin-left: auto;
 }
 
 .logo:hover {
@@ -59,6 +60,7 @@ a:active{
     float:inline-end;
     width: 25%;
     height: 400px;
+    margin-inline;
 }
 
 .agricultura{
