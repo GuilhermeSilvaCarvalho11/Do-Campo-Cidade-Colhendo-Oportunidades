@@ -11,7 +11,7 @@
 }
 
 .logo{
-    float:inline-end;
+    float:inline-start;
     border-radius: 50%;
     box-shadow: #bfe79f 0px 0px 10px;
     transition: 0.5s;
