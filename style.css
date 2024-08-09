@@ -36,8 +36,13 @@
     box-shadow: #a8d692 0px 0px 20px;
 }
 
-.Informação-texto-dois {
+.Informação-texto-um{
     font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Informação-texto-dois {
+    font-size: 20px;
 }
 
 
