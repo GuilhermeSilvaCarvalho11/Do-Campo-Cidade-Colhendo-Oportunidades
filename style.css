@@ -106,7 +106,7 @@ a:active{
 }
 
 .principal__box {
-    background-image:linear-gradient( #afec93, #caf084) ;
+    background-image:linear-gradient( #c8ff00, #00ff00) ;
     height: 450px;
     margin: auto;
 }
@@ -248,7 +248,7 @@ a:active{
  }
 
  .agricultura2{
-    background-image:linear-gradient( #caf084, #afec93 ) ;
+    background-image:linear-gradient( #afec93, #ffffff ) ;
     color: rgb(28, 87, 1);
     display: flex;
     justify-content: center;
