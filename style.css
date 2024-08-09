@@ -93,6 +93,7 @@ a:active{
     align-content: right;
     width: 25%;
     height: 450px;
+    margin-bottom: -20px;
 }
 
 .agricultura{
@@ -104,6 +105,7 @@ a:active{
     justify-content: center;
     align-items: left;
     padding: 24px 0;
+
 }
 
 .informação-div-conteudo{
