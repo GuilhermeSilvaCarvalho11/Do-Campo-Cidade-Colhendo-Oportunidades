@@ -106,7 +106,18 @@ a:active{
     align-items: left;
     padding: 24px 0;
     
+}
 
+
+.agricultura2{
+    width: 100%;
+    height: 450px;
+    background-image:linear-gradient( #fdfdfd, #afec93) ;
+    color: rgb(28, 87, 1);
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    padding: 24px 0;
 }
 
 .informação-div-conteudo{
@@ -263,13 +274,3 @@ a:active{
      filter: blur(5px);
  }
  
-.agricultura2{
-    width: 100%;
-    height: 450px;
-    background-image:linear-gradient( #fdfdfd, #afec93) ;
-    color: rgb(28, 87, 1);
-    display: flex;
-    justify-content: center;
-    align-items: left;
-    padding: 24px 0;
-}
