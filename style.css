@@ -10,15 +10,6 @@
     padding: 24px 0;
 }
 
-.parallax {
-    height: 500px;
-    background-image: url(img/campo\ e\ cidade.jpeg);
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
 .logo{
     float:inline-start;
     border-radius: 50%;
