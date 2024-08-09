@@ -126,9 +126,9 @@ a:active{
 
 .principal__box {
     background-image:linear-gradient( #ffffff, #ffffff) ;
-    width: 100%;
+    width: 950px;
     height: 450px;
-    margin: 0 26px;
+    margin: auto;
 }
 
 .titulo {
