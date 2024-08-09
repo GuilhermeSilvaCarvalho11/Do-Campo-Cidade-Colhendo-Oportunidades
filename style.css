@@ -44,7 +44,7 @@
 }
 
 .cabecalho-lista-item a{
-    justify-content: center;
+    justify-content: end;
     text-decoration: none;
     color:rgb(49, 139, 69);
 }
