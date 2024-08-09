@@ -65,7 +65,7 @@
 }
 
 .Informação-texto-tres {
-    display: block;
+    display:inline-block;
     font-size: 20px;
 
 }
@@ -75,7 +75,6 @@
     align-content: right;
     width: 25%;
     height: 450px;
-    margin-bottom: 0%;
 }
 
 .cabecalho-lista-item{
