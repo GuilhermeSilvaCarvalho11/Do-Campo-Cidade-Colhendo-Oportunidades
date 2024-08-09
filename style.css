@@ -63,7 +63,18 @@ a:active{
     float:inline-end;
     width: 25%;
     height: 400px;
+    border-radius: 50%;
+    box-shadow: #caee88 0px 0px 10px;
+    transition: 0.5s;
 }
+
+.agricultura-imagem:hover {
+    transition: 0.5s;
+    box-shadow: #d5d692 0px 0px 20px;
+}
+
+
+
 
 .agricultura{
     background-image:linear-gradient( #fdfdfd, #afec93) ;
