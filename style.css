@@ -107,6 +107,7 @@ a:active{
 
 .principal__box {
     background-image:linear-gradient( #ffffff, #ffffff) ;
+    width: 950px;
     height: 450px;
     margin: auto;
 }
