@@ -15,8 +15,9 @@
     box-shadow: #afec93 0px 0px 10px;
     transition: 0.5s;
     width: 5%;
+    border-radius: 22px;
     height: auto;
-    margin: 0 auto; /* Ajustado para centralizar horizontalmente */
+    margin: 0 auto;
 }
 
 .logo img:hover {
