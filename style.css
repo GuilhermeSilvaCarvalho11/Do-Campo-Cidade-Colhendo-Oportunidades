@@ -10,7 +10,7 @@
     padding: 24px 0;
 }
 
-.logo img {
+.logo{
     border-radius: 50%;
     box-shadow: #afec93 0px 0px 10px;
     transition: 0.5s;
@@ -20,7 +20,7 @@
     margin: 0 auto;
 }
 
-.logo img:hover {
+.logo:hover {
     transition: 0.5s;
     box-shadow: #a8d692 0px 0px 20px;
 }
