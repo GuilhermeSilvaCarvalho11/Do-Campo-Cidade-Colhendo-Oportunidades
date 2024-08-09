@@ -12,7 +12,7 @@
 
 .logo img {
     border-radius: 50%;
-    box-shadow: #f8f9ffad 0px 0px 10px;
+    box-shadow: #afec93 0px 0px 10px;
     transition: 0.5s;
     width: 5%;
     height: auto;
@@ -21,7 +21,7 @@
 
 .logo img:hover {
     transition: 0.5s;
-    box-shadow: #f8f9ffad 0px 0px 20px;
+    box-shadow: #a8d692 0px 0px 20px;
 }
 
 
