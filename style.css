@@ -36,14 +36,6 @@
     box-shadow: #a8d692 0px 0px 20px;
 }
 
-
-.cabecalho-titulo{
-    color: rgb(28, 87, 1);
-    font-style: italic;
-    font-variation-settings;
-    text-align: center;
-}
-
 .cabecalho-lista-item{
     justify-content: center;
     display: inline-block;
