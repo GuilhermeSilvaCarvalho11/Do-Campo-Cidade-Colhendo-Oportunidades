@@ -1,6 +1,22 @@
 *{margin: 0;
     padding: 0;
 }
+:root { 
+    --cor-de-fundo: #e4e6e7;
+    --branco: #FFFFFF;
+    --laranja: #E89800;
+    --vermelho: #be1f07;
+    --fonte-principal: "Poppins";
+    --preto: #000000;
+    --amarelo: #f6f7c7;
+}
+
+.body { 
+    background-color: var(--cor-de-fundo);
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 400;
+}
 
 .cabecalho{
     background-color: rgb(255, 255, 255);
@@ -97,22 +113,9 @@ a:active{
     font-size: 35px;
 }
 
-:root { 
-    --cor-de-fundo: #e4e6e7;
-    --branco: #FFFFFF;
-    --laranja: #E89800;
-    --vermelho: #be1f07;
-    --fonte-principal: "Poppins";
-    --preto: #000000;
-    --amarelo: #f6f7c7;
-}
 
-.body { 
-    background-color: var(--cor-de-fundo);
-    font-family: var(--fonte-principal);
-    font-size: 16px;
-    font-weight: 400;
-}
+
+
 
 .tipo__imagem {
     height: 200px;  
