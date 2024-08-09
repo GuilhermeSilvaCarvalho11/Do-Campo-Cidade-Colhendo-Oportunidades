@@ -246,3 +246,12 @@ a:active{
 .caixa::after {
     filter: blur(5px);
  }
+
+ .agricultura2{
+    background-image:linear-gradient( #caf084, #afec93 ) ;
+    color: rgb(28, 87, 1);
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    padding: 24px 0;
+}
