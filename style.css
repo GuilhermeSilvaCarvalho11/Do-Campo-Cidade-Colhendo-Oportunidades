@@ -59,6 +59,7 @@ a:active{
 }
 
 .agricultura-imagem{
+    justify-self: end;
     align-content: right;
     width: 25%;
     height: 400px;
