@@ -93,6 +93,7 @@ a:active{
     align-content: right;
     width: 25%;
     height: 450px;
+    margin-bottom: 0;
     
 }
 
@@ -102,7 +103,10 @@ a:active{
     background-image:linear-gradient( #fdfdfd, #afec93) ;
     color: rgb(28, 87, 1);
     display: flex;
+    justify-content: center;
+    align-items: left;
     padding: 24px 0;
+    margin-bottom: 0;
     
 
 }
