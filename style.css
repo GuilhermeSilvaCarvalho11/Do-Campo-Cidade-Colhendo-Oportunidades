@@ -285,7 +285,7 @@ a:active{
 }
 
 .principal__box {
-    background-color: rgb(255, 255, 255);
+    background-color: var(--branco);
     height: 400px;
     width: 950px;
     margin: auto;
