@@ -14,8 +14,8 @@
     position: fixed;
     top: 0;
     width: 100%;
-    background-color: #ffffff;
-    color: white;
+    background-color: #cde7aa;
+    color: rgb(213, 231, 162);
     text-align: right;
     padding: 10px 0;
     z-index: 1000;
